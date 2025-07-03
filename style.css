@@ -180,3 +180,8 @@ footer {
         width: 100%;
     }
 }
+
+.voltar {
+    text-align: center;
+    margin: 2rem 0;
+}
